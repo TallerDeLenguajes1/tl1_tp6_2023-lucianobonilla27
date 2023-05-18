@@ -6,17 +6,37 @@
 // b=a;
 // Console.WriteLine("valor de a:"+a);
 // Console.WriteLine("valor de b:"+b);
-
-Console.WriteLine("ingrese un numero:"); // Muestra un mensaje por pantalla
-float a ;
-bool control=float.TryParse(Console.ReadLine(),out a);
-if (control)
+int menu,a,b;
+do
 {
-    if (a > 0)  // si a > 0 lo invierto
-    {
-        a = 1/a;
-    }
-}
-Console.WriteLine("El numero invertido es:"); // Muestra un mensaje por pantalla
+Console.WriteLine("ingrese la operacion que desea realizar"); 
+Console.WriteLine("1_Sumar:"); 
+Console.WriteLine("2_Restar:"); 
+Console.WriteLine("3_Multiplicar:"); 
+Console.WriteLine("4_Dividir:"); 
+Console.WriteLine("5_Salir:"); 
+bool control=int.TryParse(Console.ReadLine(),out menu);  
+switch (menu)
+{
+    case 1:
 
-Console.WriteLine(a);
+    break;
+     case 2:
+
+    break;
+     case 3:
+
+    break;
+     case 4:
+
+    break;
+    default:
+    Console.WriteLine("Ingrese un numero valido"); 
+    break;
+}
+} while (menu != 5);
+
+
+
+
+
