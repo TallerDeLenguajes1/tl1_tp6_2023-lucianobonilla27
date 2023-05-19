@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alumno\\Desktop\\tl1_tp6_2023-lucianobonilla27\\practico6\\practico6.csproj": {}
+    "C:\\Users\\BONILLA\\Desktop\\Segundo año\\Taller de lenguajes I\\tps\\tp5\\tl1_tp6_2023-lucianobonilla27\\practico6\\practico6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alumno\\Desktop\\tl1_tp6_2023-lucianobonilla27\\practico6\\practico6.csproj": {
+    "C:\\Users\\BONILLA\\Desktop\\Segundo año\\Taller de lenguajes I\\tps\\tp5\\tl1_tp6_2023-lucianobonilla27\\practico6\\practico6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumno\\Desktop\\tl1_tp6_2023-lucianobonilla27\\practico6\\practico6.csproj",
+        "projectUniqueName": "C:\\Users\\BONILLA\\Desktop\\Segundo año\\Taller de lenguajes I\\tps\\tp5\\tl1_tp6_2023-lucianobonilla27\\practico6\\practico6.csproj",
         "projectName": "practico6",
-        "projectPath": "C:\\Users\\Alumno\\Desktop\\tl1_tp6_2023-lucianobonilla27\\practico6\\practico6.csproj",
-        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumno\\Desktop\\tl1_tp6_2023-lucianobonilla27\\practico6\\obj\\",
+        "projectPath": "C:\\Users\\BONILLA\\Desktop\\Segundo año\\Taller de lenguajes I\\tps\\tp5\\tl1_tp6_2023-lucianobonilla27\\practico6\\practico6.csproj",
+        "packagesPath": "C:\\Users\\BONILLA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BONILLA\\Desktop\\Segundo año\\Taller de lenguajes I\\tps\\tp5\\tl1_tp6_2023-lucianobonilla27\\practico6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\BONILLA\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
